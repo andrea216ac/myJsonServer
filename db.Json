@@ -1,0 +1,18 @@
+{
+  "pizzas": [
+    {
+    "name": "margherita",
+    "price": 19.99,
+    "id": 0
+  },
+  {
+    "name": "napoletana",
+    "price": 14.99,
+    "id": 1
+  }
+],
+  "login": {
+    "user": "pippo",
+    "psw": "0000"
+  }
+}
